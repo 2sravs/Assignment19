@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-16\Assignment19\Assignment19\bin\Debug\Assignment19.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-16\Assignment19\Assignment19\bin\Debug\Assignment19.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-16\Assignment19\Assignment19\bin\Debug\Assignment19.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-16\Assignment19\Assignment19\obj\Debug\Assignment19.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-16\Assignment19\Assignment19\obj\Debug\Assignment19.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-16\Assignment19\Assignment19\obj\Debug\Assignment19.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-16\Assignment19\Assignment19\obj\Debug\Assignment19.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-16\Assignment19\Assignment19\obj\Debug\Assignment19.pdb
